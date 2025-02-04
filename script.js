@@ -1,3 +1,5 @@
+console.log('Test 1 2 3')
+
 let mainElement = document.querySelector('main');
 let iconContainer = document.getElementById('iconContainer');
 let iconWrapper = document.getElementById('iconWrapper');
